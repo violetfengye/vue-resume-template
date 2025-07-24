@@ -19,9 +19,9 @@
         },
 
         "zh": {
-            "name": "罗伊谢帕德",
+            "name": "Isaleafa",
             "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "role": "旅行者"
         }
     },
 
@@ -42,17 +42,17 @@
                     "valueShort": "Californie – États-Unis"
                 },
                 "zh": {
-                    "valueShort": "美国加州"
+                    "valueShort": "提瓦特大陆"
                 }
             }
         },
 
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "ILoveGenshen@genshen.com",
+            "valueShort": "ILoveGenshen@genshen.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
+            "href": "mailto:isaleafa@163.com"
         },
 
         {
@@ -89,10 +89,10 @@
 
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+86 19822760132",
+            "valueShort": "1008611",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890"
+            "href": "tel:19822760132"
         }
     ]
 }
